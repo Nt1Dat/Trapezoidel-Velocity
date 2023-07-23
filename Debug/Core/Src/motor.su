@@ -1,0 +1,8 @@
+../Core/Src/motor.c:14:6:MotorReset	16	static
+../Core/Src/motor.c:30:6:MotorSetDuty	16	static
+../Core/Src/motor.c:43:6:ReadEncoder	32	static
+../Core/Src/motor.c:60:7:MotorTuningVelocity	40	static
+../Core/Src/motor.c:67:7:MotorTuningPosition	40	static
+../Core/Src/motor.c:75:6:MotorTrapzoidalInit	16	static
+../Core/Src/motor.c:99:6:MotorMovePosV	40	static
+../Core/Src/motor.c:147:6:MotorMovePosP	40	static
